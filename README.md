@@ -1,11 +1,11 @@
 # ArcGIS Experience Builder - Getting Your Feet Wet
 
 ## App Registration ##
-- [Custom Widget #1 - The Terrible Widget][lab1]
+- [Register Your Computer with Experience Builder][lab1]
 
 ## Coding Exercises ##
-- [Custom Widget #2 - Zoom to Minnesota County][lab2]
-- [Upgrade Widget #2 - Add Pie Chart][lab3]
+- [Custom Widget #1 - Lat/Long auto change][lab2]
+- [Custom Widget #2 - Something][lab3]
 
 ## Slides ##
 The PowerPoint slides are located [here][slides]
