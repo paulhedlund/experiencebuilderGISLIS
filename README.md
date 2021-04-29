@@ -6,5 +6,5 @@
 ## Slides ##
 The PowerPoint slides are located [here][slides]
 
-[lab1]: ./Exercises/widget1.md
+[lab1]: https://github.com/paulhedlund/experiencebuilderGISLIS/blob/main/Exercises/Widget1.md
 [slides]: ./Slides/ArcGIS_Experience_Builder_GISLIS.pptx
