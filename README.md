@@ -7,4 +7,4 @@
 The PowerPoint slides are located [here][slides]
 
 [lab1]: ./Exercises/widget1.md
-[slides]: ./Slides/Web_AppBuilder_for_ArcGIS.pptx
+[slides]: ./Slides/ArcGIS_Experience_Builder_GISLIS.pptx
