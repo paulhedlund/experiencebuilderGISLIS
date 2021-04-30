@@ -53,7 +53,7 @@ ___
 
     ![](img/ex1/widg1_pc13.png)
     
-14) Save the Experience than click the **Preview** button.
+14) **Save** the Experience than click the **Preview** button.
 
     ![](img/ex1/widg1_pc12.png)
     
