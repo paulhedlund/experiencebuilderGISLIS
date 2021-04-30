@@ -248,7 +248,7 @@ ___
     
 38) Click the save button and then click preview.
 
-    ![](img/ex2/widg1_pc12.png)
+    ![](img/ex1/widg1_pc12.png)
     
 39) On the preview click the **Add Layer**.  You should now see a map with the MN Airport points.
 
@@ -257,6 +257,3 @@ ___
 40) Congrats!  You just coded your first custom Experience Builder widget.
 
 41) Have extra time?  Learn about making a custom **icon.svg** for your widget.  There several ways to create one.  You could start by trying an online editor such as this one (https://mediamodifier.com/free-svg-editor).
-
-
-
