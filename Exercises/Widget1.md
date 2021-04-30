@@ -9,7 +9,7 @@ ___
 
     ![](img/ex1/widg1_pc1.png)
 
-4)	Open the command prompt.  This can be done by typing **CMD** in the Windows search box.
+4)	Open the command prompt.  This can be done by typing **cmd** in the Windows search box.
 
     ![](img/ex1/widg1_pc2.png)
 
