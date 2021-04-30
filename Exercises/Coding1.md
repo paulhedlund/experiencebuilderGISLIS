@@ -96,6 +96,64 @@ ___
     
 16)	At this point do a **File -> Save** within VS Code.
 
-17)	Now navigate to the **runtime -> widget.tsx** file to edit it.  Start by adding the import statements text from here.
+17)	Now navigate to the **runtime -> widget.tsx** file.  Remove the existing sample code from that file.
 
     ![](img/ex1/code1_pc17.png)
+    
+18)	Remove the existing sample code from the **widget.tsx** file.
+    
+19)	Start by adding the import statement text. Notice the **"jimu-arcgis"** base on the depency we added in the **Manifest.json**.
+  
+    ```
+    /** @jsx jsx */
+    import { AllWidgetProps, BaseWidget, jsx } from "jimu-core";
+    import { JimuMapViewComponent, JimuMapView } from "jimu-arcgis";
+    import FeatureLayer = require("esri/layers/FeatureLayer");
+    ```
+    ![](img/ex1/code1_pc18.png)
+     
+20)	Next, add the **BaseWidgetSetting** class.
+  
+    ```
+    export default class Widget extends BaseWidget<AllWidgetProps<any>, any> {
+
+
+      render() {
+        return (
+
+        );
+      }
+    }
+    ```
+    ![](img/ex1/code1_pc19.png)
+    
+21)	Next, add the **BaseWidgetSetting** class.
+  
+    ```
+    export default class Widget extends BaseWidget<AllWidgetProps<any>, any> {
+
+
+      render() {
+        return (
+
+        );
+      }
+    }
+    ```
+    ![](img/ex1/code1_pc19.png)
+    
+22)	Now add the state code logic.
+  
+    ```
+      state = {
+        jimuMapView: null
+      };
+      activeViewChangeHandler = (jmv: JimuMapView) => {
+        if (jmv) {
+          this.setState({
+            jimuMapView: jmv
+          });
+        }
+      };
+    ```
+    ![](img/ex1/code1_pc20.png)
