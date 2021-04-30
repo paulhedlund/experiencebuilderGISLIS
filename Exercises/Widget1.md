@@ -3,11 +3,18 @@ ___
 
 1)	Download the widget from [here][download]
 
-2)	Make a copy of **CustomWidgetTemplate** and call it **TerribleWidget**.  This template will contain the more commonly used files in the widget file structure.
+2)	Navigate to **C:\ArcGISExperienceBuilder\client\your-extensions\widgets\samplewidgets**  Place the zip file in this folder and unzip it.  Then, delete the zip file.
+
+3)	The **widgets** should look like this
 
     ![](img/ex1/widg1_pc1.png)
 
-2)	Navigate to **C:\ArcGISExperienceBuilder\client\your-extensions\widgets\samplewidgets**  Place the zip file in this folder and unzip it.  If you are unsure which to use start out use [NotePad ++](https://notepad-plus-plus.org/) for Windows.
+4)	Open the command prompt.  This can be done by typeing **CMD** in the Windows search box.
 
+    ![](img/ex1/widg1_pc2.png)
 
+5)	Type **cd ..** two times to get to main **C:\** folder.
+
+    ![](img/ex1/widg1_pc3.png)
+    
 [download]: https://github.com/paulhedlund/experiencebuilderGISLIS/blob/main/Exercises/docs/get-map-coordinates.zip?raw=true
