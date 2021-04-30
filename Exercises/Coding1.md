@@ -15,7 +15,7 @@ ___
 
     ![](img/ex2/code1_pc3.png)
     
-5)	Navigate to the **C:\ArcGISExperienceBuilder** folder and select it.  You should now see all the Experience Builder folders in VS Code and seen here.
+5)	Navigate to the **C:\ArcGISExperienceBuilder** folder and select it.  You should now see all the Experience Builder folders in VS Code as seen here.
 
     ![](img/ex2/code1_pc4.png)
     
