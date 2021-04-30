@@ -21,7 +21,7 @@ ___
 
     ![](img/ex1/widg1_pc4.png)
     
-7)  Type **nmp start** to start the Node.js service
+7)  Type **npm start** to start the Node.js service
 
     ![](img/ex1/widg1_pc5.png)
     
