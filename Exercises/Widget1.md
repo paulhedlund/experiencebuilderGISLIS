@@ -3,7 +3,7 @@ ___
 
 1)	Download the widget from [here][download]
 
-2)	Navigate to **C:\ArcGISExperienceBuilder\client\your-extensions\widgets\samplewidgets**  Place the zip file in this folder and unzip it.  Then, delete the zip file.
+2)	Navigate to the **C:\ArcGISExperienceBuilder\client\your-extensions\widgets\samplewidgets** folder and place the zip file here and unzip it.  Then, delete the zip file.
 
 3)	The **widgets** should look like this
 
