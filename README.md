@@ -1,7 +1,7 @@
 # ArcGIS Experience Builder - Getting Your Feet Wet
 
 ## Add Custom Widget ##
-- [Add Get Map Coordinsates Widget][lab1]
+- [Add Get Map Coordinates Widget][lab1]
 
 ## Coding Exercise ##
 - [Custom Widget - Add Layers Widget][lab2]
