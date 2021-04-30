@@ -61,7 +61,7 @@ ___
 
     ![](img/ex1/widg1_pc14.png)
     
-16) You have successfully added a custom widget!  Now go ahead and try the next excersis on coding a custom widget.
+16) You have successfully added a custom widget!  Now go ahead and try the next exercise on coding a custom widget.
 
     
 [download]: https://github.com/paulhedlund/experiencebuilderGISLIS/blob/main/Exercises/docs/get-map-coordinates.zip?raw=true
