@@ -30,3 +30,11 @@ ___
 8)	Also, add a new tag called **dependency** with the setting as **"jimu-arcgis"**.  This indicates that the ArcGIS JavaScript API will be referenced as part of this widget.
 
     ![](img/ex1/code_pc7.png)
+
+9)	Delete the **tests** folder as it is not needed.
+
+    ![](img/ex1/code_pc8.png)
+    
+10)	Add a new folder within **src** called **setting**.
+
+    ![](img/ex1/code_pc9.png)
