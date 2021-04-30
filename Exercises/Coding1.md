@@ -94,7 +94,7 @@ ___
     ```
     ![](img/ex1/code1_pc16.png)
     
-16)	At this point do a **File -> Save** within VS Code.
+16)	At this point do a **File -> Save All** within VS Code.
 
 17)	Now navigate to the **runtime -> widget.tsx** file.  Remove the existing sample code from that file.
 
@@ -197,7 +197,16 @@ ___
     ```
     ![](img/ex1/code1_pc23.png)
     
-26)	At this point do a **File -> Save** within VS Code.
+26)	At this point do a **File -> Save All** within VS Code.
+
+27)	Delete the **config.ts** file as this is not needed.
+
+    ![](img/ex1/code1_pc25.png)
+    
+28)	In the **config.json** file remove everything within the brackets.
+
+    ![](img/ex1/code1_pc26.png)
+    ![](img/ex1/code1_pc27.png)
 
 27. If you do not have your command prompt open from the previous exercise than follow steps #4 through #8 on the **Add Get Map Coordinates Widget** exercise.
 
