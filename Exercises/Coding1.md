@@ -199,4 +199,8 @@ ___
     
 26)	At this point do a **File -> Save** within VS Code.
 
-27. If you do not have your command prompt open from the previous excersie than follow steps #4 through #8 on the 
+27. If you do not have your command prompt open from the previous exercise than follow steps #4 through #8 on the **Add Get Map Coordinates Widget** exercise.
+
+28. If your command prompts are already open than do **ctrl + c** and say **Y**.  This will terminate the batch jo.b  Then, run **npm start** again.
+
+    ![](img/ex1/code1_pc24.png)
