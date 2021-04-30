@@ -96,7 +96,7 @@ ___
     
 16)	At this point do a **File -> Save All** within VS Code.
 
-17)	Now navigate to the **runtime -> widget.tsx** file.  Remove the existing sample code from that file.
+17)	Now navigate to the **runtime -> widget.tsx** file.
 
     ![](img/ex2/code1_pc17.png)
     
