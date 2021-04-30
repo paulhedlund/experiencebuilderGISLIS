@@ -214,11 +214,11 @@ ___
 
     ![](img/ex2/code1_pc24.png)
     
-31)  Open a browser and type the URL **localhost:3001**.  If you are not signed-in you will see this window.  Go ahead and **Sign in**.
+31) Open a browser and type the URL **localhost:3001**.  If you are not signed-in you will see this window.  Go ahead and **Sign in**.
 
     ![](img/ex1/widg1_pc6.png)
     
-32)  At this point you should see the ArcGIS Experience Builder (Developer Edition) main page.  Click the **+ Create New** button.
+32) At this point you should see the ArcGIS Experience Builder (Developer Edition) main page.  Click the **+ Create New** button.
 
     ![](img/ex1/widg1_pc7.png)
     
