@@ -225,3 +225,31 @@ ___
 33) Select the **Blank fullscreen** template.
 
     ![](img/ex1/widg1_pc8.png)
+    
+34) Drag the **Map** widget onto the main window.
+
+    ![](img/ex1/code1_pc28.png)
+    
+35) Go to the right and side of the Experience and find the **Initial View** setting and select **Custom** and then click **Modify**.
+
+    ![](img/ex1/code1_pc29.png)
+    
+36) Zoom the map into Minnesota and click  **OK**.
+
+    ![](img/ex1/code1_pc30.png)
+    
+37) Now find your newly created **add-layers** widget and drag it onto the left side of the window.
+
+    ![](img/ex1/code1_pc31.png)
+    
+38) In the content section on the right side configuration window select **Map 1**.
+
+    ![](img/ex1/code1_pc32.png)
+    
+38) Click the save button and then click preview.
+
+    ![](img/ex1/code1_pc33.png)
+    
+39) On the preview click the **Add Layer**.  You should now see a map with the MN Airport points.
+
+    ![](img/ex1/code1_pc33.png)
