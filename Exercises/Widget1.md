@@ -7,9 +7,7 @@ ___
 
     ![](img/ex1/widg1_pc1.png)
 
-3)	Navigate to **C:\WebAppBuilderForArcGIS\client\stemapp\widgets\samplewidgets**  There are many to choose from.  If you are unsure which to use start out use [NotePad ++](https://notepad-plus-plus.org/) for Windows.
+2)	Navigate to **C:\ArcGISExperienceBuilder\client\your-extensions\widgets\samplewidgets**  Place the zip file in this folder and unzip it.  If you are unsure which to use start out use [NotePad ++](https://notepad-plus-plus.org/) for Windows.
 
-## Slides ##
-The PowerPoint slides are located [here][download]
 
 [download]: https://github.com/paulhedlund/experiencebuilderGISLIS/blob/main/Exercises/docs/get-map-coordinates.zip?raw=true
