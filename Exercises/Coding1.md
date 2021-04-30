@@ -80,4 +80,22 @@ ___
       useMapWidgetIds: useMapWidgetIds
     });
     ```
-    ![](img/ex1/code1_pc12.png)
+    ![](img/ex1/code1_pc14.png)
+    
+15)	Finally, add code to the **render** function.
+
+    Add the below code here:
+    ![](img/ex1/code1_pc15.png)
+  
+    ```
+      <div className="widget-setting-demo">
+        <JimuMapViewSelector useMapWidgetIds={this.props.useMapWidgetIds} onSelect={this.onMapWidgetSelected} />
+      </div>
+    ```
+    ![](img/ex1/code1_pc16.png)
+    
+16)	At this point do a **File -> Save** within VS Code.
+
+17)	Now navigate to the **runtime -> widget.tsx** file to edit it.  Start by adding the import statements text from here.
+
+    ![](img/ex1/code1_pc17.png)
