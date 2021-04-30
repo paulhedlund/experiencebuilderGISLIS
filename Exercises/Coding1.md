@@ -256,7 +256,7 @@ ___
     
 40) Congrats!  You just coded your first custom Experience Builder widget.
 
-41) Have extra time?  Learn about make a custom **icon.svg** for your widget.  There several ways to create one.  You could start by trying an online editor such as this one (https://mediamodifier.com/free-svg-editor).
+41) Have extra time?  Learn about making a custom **icon.svg** for your widget.  There several ways to create one.  You could start by trying an online editor such as this one (https://mediamodifier.com/free-svg-editor).
 
 
 
