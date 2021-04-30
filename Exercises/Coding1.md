@@ -248,7 +248,7 @@ ___
     
 38) Click the save button and then click preview.
 
-    ![](img/ex2/code1_pc33.png)
+    ![](img/ex2/widg1_pc12.png)
     
 39) On the preview click the **Add Layer**.  You should now see a map with the MN Airport points.
 
