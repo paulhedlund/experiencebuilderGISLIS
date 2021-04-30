@@ -213,3 +213,15 @@ ___
 30) If your command prompts are already open than do **ctrl + c** and say **Y**.  This will terminate the batch job  Then, run **npm start** again.
 
     ![](img/ex1/code1_pc24.png)
+    
+31)  Open a browser and type the URL **localhost:3001**.  If you are not signed-in you will see this window.  Go ahead and **Sign in**.
+
+    ![](img/ex1/widg1_pc6.png)
+    
+32)  At this point you should see the ArcGIS Experience Builder (Developer Edition) main page.  Click the **+ Create New** button.
+
+    ![](img/ex1/widg1_pc7.png)
+    
+33) Select the **Blank fullscreen** template.
+
+    ![](img/ex1/widg1_pc8.png)
