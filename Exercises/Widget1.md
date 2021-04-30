@@ -12,4 +12,4 @@ ___
 ## Slides ##
 The PowerPoint slides are located [here][download]
 
-[download]: https://github.com/paulhedlund/experiencebuilderGISLIS/blob/main/Exercises/docs/get-map-coordinates.zip
+[download]: https://github.com/paulhedlund/experiencebuilderGISLIS/blob/main/Exercises/docs/get-map-coordinates.zip?raw=true
