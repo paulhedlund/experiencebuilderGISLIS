@@ -9,7 +9,7 @@ ___
 
     ![](img/ex1/widg1_pc1.png)
 
-4)	Open the command prompt.  This can be done by typeing **CMD** in the Windows search box.
+4)	Open the command prompt.  This can be done by typing **CMD** in the Windows search box.
 
     ![](img/ex1/widg1_pc2.png)
 
@@ -24,5 +24,25 @@ ___
 7)  Type **nmp start** to start the Node.js service
 
     ![](img/ex1/widg1_pc5.png)
+    
+8)  A second command prompt will need to be opened.  Therefore, go through steps #4 to #7 again.  However, for #6 change the command to **cd C:\ArcGISExperienceBuilder\client**.
+
+    ![](img/ex1/widg1_pc10.png)
+    
+8)  Open a browser and type the URL **localhost:3001**.  If you are not signed-in you will see this window.  Go ahead and **Sign in**.
+
+    ![](img/ex1/widg1_pc6.png)
+    
+9)  At this point you should see the **ArcGIS Experience Builder (Developer Edition)** main page.  Click the **+ Create New** button.
+
+    ![](img/ex1/widg1_pc7.png)
+    
+10) Select the **Blank fullscreen** template.
+
+    ![](img/ex1/widg1_pc8.png)
+    
+11) Drag the **Map** widget onto the right side of the screen control.
+
+    ![](img/ex1/widg1_pc9.png)
     
 [download]: https://github.com/paulhedlund/experiencebuilderGISLIS/blob/main/Exercises/docs/get-map-coordinates.zip?raw=true
