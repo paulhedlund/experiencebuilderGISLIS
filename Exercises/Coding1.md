@@ -142,7 +142,7 @@ ___
     ```
     ![](img/ex1/code1_pc19.png)
     
-22)	Now add the state code logic.
+22)	Now add the state code logic within the class.
   
     ```
       state = {
@@ -157,3 +157,37 @@ ___
       };
     ```
     ![](img/ex1/code1_pc20.png)
+    
+23)	Now add the button submit logic below the state code.
+  
+    ```
+      formSubmit = (evt) => {
+        evt.preventDefault();
+        // create a new FeatureLayer
+        const layer = new FeatureLayer({
+          url: "add-service-here"
+        });
+
+        // Add the layer to the map (accessed through the Experience Builder JimuMapView data source)
+        this.state.jimuMapView.view.map.add(layer);
+      };
+    ```
+    ![](img/ex1/code1_pc21.png)
+    
+24)	Now add the **render** logic.
+  
+    ```
+      <div className="widget-starter jimu-widget">
+        {this.props.hasOwnProperty("useMapWidgetIds") && this.props.useMapWidgetIds && this.props.useMapWidgetIds.length === 1 && (
+          <JimuMapViewComponent useMapWidgetIds={this.props.useMapWidgetIds} onActiveViewChange={this.activeViewChangeHandler} />
+        )}
+        <form onSubmit={this.formSubmit}>
+          <div>
+            <button>Add Layer</button>
+          </div>
+        </form>
+      </div>
+    ```
+    ![](img/ex1/code1_pc22.png)
+    
+25)	Let's now add the service layer we will reference from our ArcGIS Online account.
