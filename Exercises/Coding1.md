@@ -5,11 +5,11 @@ ___
 
 3)	The widgets folder should look like this.
 
-    ![](img/ex1/widg1_pc1.png)
+    ![](img/ex1/code1_pc1.png)
 
-4)	Open the command prompt.  This can be done by typing **cmd** in the Windows search box.
+4)	Now open **VS Code**.  It can be found here in the Start menu.
 
-    ![](img/ex1/widg1_pc2.png)
+    ![](img/ex1/code1_pc2.png)
 
 5)	Type **cd ..** two times to get to main **C:\** folder.
 
