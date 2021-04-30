@@ -190,4 +190,13 @@ ___
     ```
     ![](img/ex1/code1_pc22.png)
     
-25)	Let's now add the service layer we will reference from our ArcGIS Online account.
+25)	Let's now add the service layer we will reference from our ArcGIS Online account.  This is a service of all Minnesota airport locations.  Add it to the URL for the **FeatureLayer**.
+
+    ```
+    https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/MN_Airports/FeatureServer/0
+    ```
+    ![](img/ex1/code1_pc23.png)
+    
+26)	At this point do a **File -> Save** within VS Code.
+
+27. If you do not have your command prompt open from the previous excersie than follow steps #4 through #8 on the 
