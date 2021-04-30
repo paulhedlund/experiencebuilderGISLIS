@@ -1,10 +1,16 @@
 # Custom Widget - Add Layer Widget
 ___
 
-1)	Navigate to **C:\WebAppBuilderForArcGIS\client\stemapp\widgets\samplewidgets**
+1)	Navigate to the **C:\ArcGISExperienceBuilder\client\your-extensions\widgets\samplewidgets** folder.  Then, make a copy of the **simple** folder and call it **add-layers**.
 
-2)	Make a copy of **CustomWidgetTemplate** and call it **TerribleWidget**.  This template will contain the more commonly used files in the widget file structure.
+3)	The widgets folder should look like this.
 
     ![](img/ex1/widg1_pc1.png)
 
-3)	Make sure you a have a preferred text editor installed on your machine.  There are many to choose from.  If you are unsure which to use start out use [NotePad ++](https://notepad-plus-plus.org/) for Windows.
+4)	Open the command prompt.  This can be done by typing **cmd** in the Windows search box.
+
+    ![](img/ex1/widg1_pc2.png)
+
+5)	Type **cd ..** two times to get to main **C:\** folder.
+
+    ![](img/ex1/widg1_pc3.png)
