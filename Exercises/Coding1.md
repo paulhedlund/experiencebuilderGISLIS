@@ -31,10 +31,53 @@ ___
 
     ![](img/ex1/code_pc7.png)
 
-9)	Delete the **tests** folder as it is not needed.
+9)	Delete the **tests** folder as it is not needed.  Right-click on the folder and delete as seen here.
 
     ![](img/ex1/code_pc8.png)
     
-10)	Add a new folder within **src** called **setting**.
+10)	Add a new folder within **src** called **setting**.  Right-click to add the folder as seen here.
 
     ![](img/ex1/code_pc9.png)
+    
+11)	Add a new file within the **setting** folder called **setting.tsx**.  Right-click to add the file as seen here.
+
+    ![](img/ex1/code_pc10.png)
+    
+12)	Click on the **setting.tsx** file to edit it.  Start by adding the import statements text from here.
+  
+    ```
+    /** @jsx jsx */
+    import { React, jsx } from "jimu-core";
+    import { BaseWidgetSetting, AllWidgetSettingProps } from "jimu-for-builder";
+    import { JimuMapViewSelector } from "jimu-ui/advanced/setting-components";
+    ```
+    ![](img/ex1/code1_pc11.png)
+    
+13)	Next, add the **BaseWidgetSetting** class.
+  
+    ```
+    export default class Setting extends BaseWidgetSetting<AllWidgetSettingProps<any>, any> {
+        onMapWidgetSelected = (useMapWidgetIds: string[]) => {
+
+        };
+        render() {
+          return (
+
+          );
+        }
+      }
+    ```
+    ![](img/ex1/code1_pc12.png)
+    
+14)	Now define the **onMapWidgetSelected** function.
+
+    Add the below code here:
+    ![](img/ex1/code1_pc13.png)
+  
+    ```
+    this.props.onSettingChange({
+      id: this.props.id,
+      useMapWidgetIds: useMapWidgetIds
+    });
+    ```
+    ![](img/ex1/code1_pc12.png)
