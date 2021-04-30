@@ -45,4 +45,23 @@ ___
 
     ![](img/ex1/widg1_pc9.png)
     
+12) Find the newly added **Get Map Coordinates** widget and drag it to the left side of the screen control.
+
+    ![](img/ex1/widg1_pc11.png)
+    
+13) One the right side of the configuration screen select **Map 1** from the **Content** section.
+
+    ![](img/ex1/widg1_pc13.png)
+    
+14) Save the Experience than click the **Preview** button.
+
+    ![](img/ex1/widg1_pc12.png)
+    
+15) On the web page hover your mouse over the map to see the Lat/Long, Zoom and Scale information.
+
+    ![](img/ex1/widg1_pc14.png)
+    
+16) You have successfully added a custom widget!  Now go ahead and try the next excersis on coding a custom widget.
+
+    
 [download]: https://github.com/paulhedlund/experiencebuilderGISLIS/blob/main/Exercises/docs/get-map-coordinates.zip?raw=true
