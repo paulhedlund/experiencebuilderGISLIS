@@ -1,4 +1,4 @@
-# Custom Widget #1 - The Terrible Widget
+# Add Get Map Coordinates Widget
 ___
 
 1)	Navigate to **C:\WebAppBuilderForArcGIS\client\stemapp\widgets\samplewidgets**
