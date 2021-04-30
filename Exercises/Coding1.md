@@ -22,3 +22,11 @@ ___
 6)	Inside VS Code navigate to **your-extensions->themes->add-layers** folder.  Your VS left window should look like this.
 
     ![](img/ex1/code_pc5.png)
+
+7)	Double click the **manifest.json** file.  Change the **name** parameter to **"add-layers"**.  Also, change the **author** to your name and alter the **"description"** parameter to something like you see in the image.
+
+    ![](img/ex1/code_pc6.png)
+    
+8)	Also, add a new tag called **dependency** with the setting as **"jimu-arcgis"**.  This indicates that the ArcGIS JavaScript API will be referenced as part of this widget.
+
+    ![](img/ex1/code_pc7.png)
