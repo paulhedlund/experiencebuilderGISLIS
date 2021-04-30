@@ -5,7 +5,7 @@ ___
 
 2)	Navigate to the **C:\ArcGISExperienceBuilder\client\your-extensions\widgets\samplewidgets** folder and place the zip file here and unzip it.  Then, delete the zip file.
 
-3)	The **widgets** should look like this
+3)	The **widgets** folder should look like this
 
     ![](img/ex1/widg1_pc1.png)
 
